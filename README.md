@@ -17,8 +17,6 @@ Predicting the **secondary school dropout rate** in Colombian municipalities usi
 - [Deployment](#deployment)
 - [Limitations](#limitations)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Repository Structure](#repository-structure)
 - [Authors](#authors)
 - [References](#references)
 
